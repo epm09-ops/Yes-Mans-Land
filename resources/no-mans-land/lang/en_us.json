@@ -1,1 +1,27 @@
-{ }
+  {
+  "block.nomansland.willow_log": "Tupelo Log",
+  "block.nomansland.willow_wood": "Tupelo Wood",
+  "block.nomansland.stripped_willow_log": "Stripped Tupelo Log",
+  "block.nomansland.stripped_willow_wood": "Stripped Tupelo Wood",
+  "block.nomansland.willow_planks": "Tupelo Planks",
+  "block.nomansland.willow_slab": "Tupelo Slab",
+  "block.nomansland.willow_fence": "Tupelo Fence",
+  "block.nomansland.willow_fence_gate": "Tupelo Fence Gate",
+  "block.nomansland.willow_door": "Tupelo Door",
+  "block.nomansland.willow_trapdoor": "Tupelo Trapddor",
+  "block.nomansland.willow_button": "Tupelo Button",
+  "block.nomansland.willow_pressure_plate": "Tupelo Pressure Plate",
+  "block.nomansland.willow_sign": "Tupelo Sign",
+  "block.nomansland.willow_bookshelf": "Tupelo Bookshelf",
+  "block.nomansland.willow_boat": "Tupelo Boat",
+  "block.nomansland.willow_chest_boat": "Tupelo Boat with Chest",
+  "block.nomansland.willow_leaves": "Tupelo Leaves",
+  "block.nomansland.willow_sapling": "Tupelo Sapling",
+  "block.nomansland.willow_palisade": "Tupelo Palisade",
+  "block.nomansland.stripped_willow_palisade": "Stripped Willow Palisade",
+  "block.nomansland.spiked_willow_palisade": "Spiked Tupelo Palisade",
+  "block.nomansland.stripped_spiked_willow_palisade": "Stripped Spiked Tupelo Palisade",
+  "block.nomansland.trimmed_willow_planks": "Trimmed Tupelo Planks",
+  "item.nomansland.large_willow_boat": "Large Tupelo Boat",
+  "item.nomansland.willow_boat_with_furnace": "Tupelo Boat With Furnace"
+}
